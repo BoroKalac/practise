@@ -6,7 +6,7 @@ body {
 .header {
     overflow: hidden;
     background-color: #020101;
-    
+       
   }
   
   /* Style the header links */
@@ -14,9 +14,9 @@ body {
     float: left;
     color: rgb(255, 255, 255);
     text-align: center;
-    padding: 12px;
+    padding: 20px;
     text-decoration: none;
-    font-size: 18px; 
+    font-size: 14px; 
     line-height: 25px;
     border-radius: 4px;
   }
